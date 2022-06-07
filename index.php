@@ -1,5 +1,7 @@
-<?php
-echo '<!doctype html>
+<?php ?>
+
+
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -65,6 +67,4 @@ echo '<!doctype html>
     <script src="index.js"></script>
 </body>
 
-</html>';
-
-?>
+</html>
